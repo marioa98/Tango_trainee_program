@@ -1,16 +1,9 @@
 # Tango Trainee Program
 
-## Content of the repository
+## Content of the branch
 
-In each branch of this repository I store all the resorces of the Tango Trainee Program 2020 like
-
-- Books (About Software tools, programming languages and softskills).
-- Koans (Coding kata to learn Ruby).
-- Exercises.
-- Ruby on Rails projects.
-- Notes.
-- And more.
+his branch stores all the books used along the program (not all read them yet) but you can clone the branch (or the entire repo) if you think that is useful for yourself. Or you just read the books without download them.
 
 ## Goal
 
-Improve my git habilities at the same time that I learn another cool stuff in the program (like Vim, Ruby, Ruby on Rails, Design Patterns, etc).
+Share all the resources of the program to improve the habilities of others.
